@@ -2,7 +2,7 @@
 
 I'm a co-founder of the tiny cooperative [@NinjaSquad](https://ninja-squad.com/).
 
-I'm also an active OSS contributor to [@Angular](https://github.com/angular/angular) and [@Vue](https://github.com/vujs/vue-next).
+I'm also an active OSS contributor to [@Angular](https://github.com/angular/angular) and [@Vue](https://github.com/vuejs/vue-next).
 
 I wrote two ebooks and online trainings if you want to learn how to build frontend applications with these frameworks:
 
